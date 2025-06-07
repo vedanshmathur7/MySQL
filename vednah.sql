@@ -1,1 +1,1 @@
-select * FROM kamlesh; 
+rrringngg
